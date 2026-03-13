@@ -20,7 +20,7 @@ Agrega aquí una **captura de pantalla** del resultado final de tu componente.
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/nellyximenalg/QR-Code-Component/tree/master/capricious-crater)
+- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/nellyximenalg/QR-Code-Component)
 - **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://qr-code-component2-delta.vercel.app)
 
 ---
