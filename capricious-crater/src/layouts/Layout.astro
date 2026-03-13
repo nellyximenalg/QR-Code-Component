@@ -1,0 +1,30 @@
+---
+import '../styles/global.css' 
+
+---
+
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/images/favicon-32x32.png" />
+		<link rel="icon" href="/images/image-qr-code.png" />
+		<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+		<meta name="generator" content={Astro.generator} />
+		<title>QR CODE</title>
+	</head>
+	<body>
+		<slot/>
+	</body>
+</html>
+
+<style>
+	html,
+	body {
+		margin: 0;
+		width: 100%;
+		height: 100%;
+	}
+</style>
