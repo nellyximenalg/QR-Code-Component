@@ -48,14 +48,6 @@ Durante el desarrollo de este proyecto reforcé algunos conceptos importantes de
 - Centrar elementos en pantalla usando Flexbox
 
 
-Ejemplo del componente QR:
-
-<div class="min-h-screen flex items-center justify-center bg-slate-300">
-  <div class="bg-white p-4 rounded-2xl w-72 shadow-lg text-center">
-    <img src="/images/image-qr-code.png" alt="QR Code" class="rounded-xl mb-4" />
-  </div>
-</div>
-
 ### 🚀 Áreas de mejora
 
 En futuros proyectos puedo mejorar en:
