@@ -14,7 +14,7 @@ El sitio fue desarrollado utilizando Astro para organizar el proyecto en compone
 Agrega aquí una **captura de pantalla** del resultado final de tu componente.  
 > Puedes usar la herramienta de captura del navegador o cualquier software de tu preferencia.
 
-![Vista previa del componente](./images/Vista-previa-del-componente-QR-Code.png)
+![Vista previa del componente](./public/images/Vista-previa-del-componente-QR-Code.png)
 
 ---
 
